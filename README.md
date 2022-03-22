@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @bachinaabhinay
 - 👀 I’m interested in Internship 
-- 🌱 I’m currently pursuing my graduation in Computer-science<br>
-- from Amrita Vishwa Vidyapeetham, Amritapuri<br>
-- 💞️ I’m looking to make Internships
-- 📫 How to reach me 
-- **👉bachinaabhinay@gmail.com**<br>
-- **:call_me_hand:9553424020**<br>
+- 🌱 I’m currently pursuing my graduation in Computer-science,S6<br>
+-  **from Amrita Vishwa Vidyapeetham, Amritapuri,Kerala. 👉"https://my.amrita.edu/" **<br>
+- 💞️ I’m looking to do Internships
+- 📫 How to reach me? 
+- **👉bachinaabhinay@gmail.com // bachinaabhinay@am.sudents.amrita.edu**<br>
+- **:call_me_hand:contact-->9553424020**<br>
+- **:eyes: LinkedIn 👉 https://www.linkedin.com/in/bachina-abhinay-20a730231**<br>
 
 <!---
 bachinaabhinay/bachinaabhinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
