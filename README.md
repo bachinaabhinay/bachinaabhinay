@@ -2,7 +2,8 @@
 - 👀 I’m interested in Internship 
 - 🌱 I’m currently pursuing my graduation in Computer-science,S6<br>
 -  **from Amrita Vishwa Vidyapeetham, Amritapuri,Kerala. 👉"https://my.amrita.edu/" **<br>
-- 💞️ I’m looking to do Internships
+- 💞️ I’m Intrested in Job
+- 💞️ Ready to Learn New Technologies
 - 📫 How to reach me? 
 - **👉bachinaabhinay@gmail.com // bachinaabhinay@am.sudents.amrita.edu**<br>
 - **:call_me_hand:contact-->9553424020**<br>
